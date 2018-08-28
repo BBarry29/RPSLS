@@ -1,0 +1,7 @@
+C:\Users\New Owner\Desktop\RPSLStest\RPSLStest\obj\Debug\RPSLStest.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\RPSLStest\RPSLStest\obj\Debug\RPSLStest.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\RPSLStest\RPSLStest\bin\Debug\RPSLStest.exe.config
+C:\Users\New Owner\Desktop\RPSLStest\RPSLStest\bin\Debug\RPSLStest.exe
+C:\Users\New Owner\Desktop\RPSLStest\RPSLStest\bin\Debug\RPSLStest.pdb
+C:\Users\New Owner\Desktop\RPSLStest\RPSLStest\obj\Debug\RPSLStest.exe
+C:\Users\New Owner\Desktop\RPSLStest\RPSLStest\obj\Debug\RPSLStest.pdb
